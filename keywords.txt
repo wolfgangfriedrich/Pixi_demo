@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map for Pixi Analog Shield
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Pixi	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ReadRegister	KEYWORD2
+WriteRegister	KEYWORD2
+config	KEYWORD2
+configChannel	KEYWORD2
+configInterrupt	KEYWORD2
+readInterrupt	KEYWORD2
+readTemperature	KEYWORD2
+readRawTemperature 	KEYWORD2
+readAnalog	KEYWORD2
+writeAnalog	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PIXI_DEVICE_ID	LITERAL1
+
+
+PIXI_INT_TEMP_DATA	LITERAL1
+PIXI_EXT1_TEMP_DATA	LITERAL1
+PIXI_EXT2_TEMP_DATA	LITERAL1
